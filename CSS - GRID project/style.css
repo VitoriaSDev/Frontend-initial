@@ -1,0 +1,44 @@
+.CorPadrao {
+    color: rgb(147, 92, 199);
+}
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+input {
+    width: 85%;
+}
+
+label {margin-left: 20px;
+margin-right: 20px;
+}
+
+.submitarea {
+    margin-left: 10.7% !important;
+    width: 86%;
+
+}
+
+footer {
+margin-top: 60px;
+background-color: rgb(147, 92, 199); padding-top: 5px; padding-bottom: 5px;
+
+}
+
+a {
+    color: white;
+}
+
+@media screen and (min-width: 1920px) {
+    .
+}
