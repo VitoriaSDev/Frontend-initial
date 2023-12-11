@@ -1,2 +1,2 @@
 # Frontend-initial
-Aulas de Desenvolvimento Web durante o SantanderCoders Bootcamp
+Anatações feitas durante as aulas de Desenvolvimento Web - SantanderCoders Bootcamp!
